@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashefromapex
 - 👀 I’m interested in llms and programming
 - 🌱 I’m currently learning C
-- 😄 Pronouns: she/they
+
 
 <!---
 Ashefromapex/Ashefromapex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
